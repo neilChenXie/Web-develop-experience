@@ -1,0 +1,15 @@
+.goright {
+	text-align:right;
+}
+.gocenter {
+	text-align:center;
+}
+.goleft {
+	text-align:left;
+	font-size:0.8em;
+}
+.errmsg {
+	text-align:left;
+	color:red;
+	font-size:0.8em;
+}
